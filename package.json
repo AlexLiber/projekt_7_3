@@ -1,0 +1,20 @@
+{
+  "name": "projekt_7_3",
+  "version": "1.0.0",
+  "description": "https://alexliber.github.io/projekt_7_4/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexLiber/projekt_7_3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexLiber/projekt_7_3/issues"
+  },
+  "homepage": "https://github.com/AlexLiber/projekt_7_3#readme"
+}
